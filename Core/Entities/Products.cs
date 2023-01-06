@@ -7,6 +7,7 @@ namespace Core.Entities
 {
     public class Products
     {
+        //sur
         public int Id { get; set; }
         public string Name { get; set; }
     }
